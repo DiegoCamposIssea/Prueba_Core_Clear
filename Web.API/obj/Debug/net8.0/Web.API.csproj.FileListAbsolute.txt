@@ -45,3 +45,4 @@ C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Web.API\bin\Debug\ne
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Web.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Web.API\obj\Debug\net8.0\Web.API.sourcelink.json

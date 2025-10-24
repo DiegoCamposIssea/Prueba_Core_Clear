@@ -15,3 +15,4 @@ C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Infrastructure\obj\D
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
