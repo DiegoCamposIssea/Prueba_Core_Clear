@@ -14,3 +14,5 @@ C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debu
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\ref\Application.dll
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\bin\Debug\net8.0\Application.runtimeconfig.json
+C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
