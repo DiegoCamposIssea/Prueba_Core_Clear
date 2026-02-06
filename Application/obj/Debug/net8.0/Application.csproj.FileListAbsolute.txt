@@ -1,4 +1,5 @@
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\bin\Debug\net8.0\Application.runtimeconfig.json
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\bin\Debug\net8.0\Application.dll
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\bin\Debug\net8.0\Application.pdb
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\bin\Debug\net8.0\Domain.dll
@@ -8,11 +9,10 @@ C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debu
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.sourcelink.json
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.dll
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.pdb
-C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\ref\Application.dll
-C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.sourcelink.json
-C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\bin\Debug\net8.0\Application.runtimeconfig.json
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\Application.genruntimeconfig.cache
+C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Application\obj\Debug\net8.0\ref\Application.dll
