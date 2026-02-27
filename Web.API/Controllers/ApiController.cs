@@ -4,6 +4,7 @@ using Web.API.Common.Errors;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 namespace Web.API.Controllers;
 
+[ApiController]
 public class ApiController : ControllerBase
 {
     protected IActionResult Problem(List<Error> errors)

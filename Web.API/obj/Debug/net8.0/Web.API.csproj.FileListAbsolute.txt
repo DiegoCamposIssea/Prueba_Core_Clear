@@ -148,3 +148,4 @@ C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Web.API\obj\Debug\ne
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Web.API\obj\Debug\net8.0\Web.API.pdb
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Web.API\obj\Debug\net8.0\Web.API.genruntimeconfig.cache
 C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Web.API\obj\Debug\net8.0\ref\Web.API.dll
+C:\Users\INFORMATICA9.OC\Desktop\Clean Arquitecture\EasyPOS\Web.API\bin\Debug\net8.0\ErrorOr.dll
